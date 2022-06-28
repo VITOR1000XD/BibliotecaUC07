@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE2\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE2\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE2\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE2\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\T-GAMER\\Documents\\UC07\\ATIVIDADE2\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config"
