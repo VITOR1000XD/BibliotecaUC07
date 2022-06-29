@@ -11,6 +11,8 @@ namespace Biblioteca.Controllers
     {
         public IActionResult Cadastro()
         {
+            Autenticacao.CheckLogin(this);
+            
             LivroService livroService = new LivroService();
             EmprestimoService emprestimoService = new EmprestimoService();
 

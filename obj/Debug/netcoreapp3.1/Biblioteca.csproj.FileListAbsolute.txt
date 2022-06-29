@@ -104,3 +104,9 @@ C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\st
 C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\listaDeUsuarios.cshtml.g.cs
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\needAdmin.cshtml.g.cs
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\T-GAMER\Documents\UC07\ATIVIDADE2\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
